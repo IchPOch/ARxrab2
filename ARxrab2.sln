@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ARxrab2", "ARxrab2\ARxrab2.csproj", "{7E837A91-C4AB-42F0-B161-1D234B0F9FBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E837A91-C4AB-42F0-B161-1D234B0F9FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E837A91-C4AB-42F0-B161-1D234B0F9FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E837A91-C4AB-42F0-B161-1D234B0F9FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E837A91-C4AB-42F0-B161-1D234B0F9FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D97C5BA8-6FBD-48BA-98DC-9EC85E537742}
+	EndGlobalSection
+EndGlobal
